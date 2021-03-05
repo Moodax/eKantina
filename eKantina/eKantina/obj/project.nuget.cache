@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/kS7ghnY71qefLPMxqrzybrj0Ju3Nr5xRnzc0KEfSad4V3Syl3rc5NfTF7i/10ziG8Qpvmgy9EZKrMpbKw8S7Q==",
+  "dgSpecHash": "Rs0ztmZEJJQj9XMxElvaeFhawUjBHA46DK8ZAEgP0kc40Co5z9Ev7ijhML9E0wt2bcRCNefK5LrrQftaDuP85Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+  "projectFilePath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ga-gama\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Ga-gama\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Ga-gama\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Fauković\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fauković\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Fauković\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
