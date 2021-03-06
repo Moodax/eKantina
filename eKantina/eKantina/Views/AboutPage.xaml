@@ -24,34 +24,55 @@
                 <RowDefinition Height="auto" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-        
-            <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="0" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="0"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="1" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="1"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="2" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="2"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="3" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="3"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="4" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="4"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="5" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="5"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="6" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="6"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="7" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="7"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="8" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="8"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="9" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="9"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="10" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="10"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="11" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="11"/>
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="0" Grid.Row="12" />
-        <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" Grid.Column="1" Grid.Row="12"/>
-        
-    </Grid>
+            <StackLayout Grid.Column="0" Grid.Row="0">
+                <Image Source="sunkasir.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="0">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="1">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="1">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="2">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="2">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="3">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="3">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="4">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="4">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="5">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="5">
+                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            </StackLayout>
+
+        </Grid>
     </ScrollView>
 </ContentPage>
