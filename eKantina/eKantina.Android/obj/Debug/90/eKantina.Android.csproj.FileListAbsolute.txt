@@ -988,3 +988,4 @@ C:\Users\Martin\Source\Repos\eKantina\eKantina\eKantina.Android\obj\Debug\90\sta
 C:\Users\Martin\Source\Repos\eKantina\eKantina\eKantina.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Martin\Source\Repos\eKantina\eKantina\eKantina.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Martin\Source\Repos\eKantina\eKantina\eKantina.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina.Android\obj\Debug\90\res\drawable\sendvicsunkasir.png

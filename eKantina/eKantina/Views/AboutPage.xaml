@@ -15,63 +15,72 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ScrollView>
-    <Grid BackgroundColor="Black">
+    <Grid BackgroundColor="white" >
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
         </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="auto" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <StackLayout Grid.Column="0" Grid.Row="0">
-                <Image Source="sunkasir.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            <StackLayout Grid.Column="0" Grid.Row="0" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
             <StackLayout Grid.Column="1" Grid.Row="0">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="0" HorizontalOptions="Center"/>
             </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="1">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            <StackLayout Grid.Column="0" Grid.Row="1" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
             <StackLayout Grid.Column="1" Grid.Row="1">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="0" HorizontalOptions="Center"/>
             </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="2">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            <StackLayout Grid.Column="0" Grid.Row="2" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
             <StackLayout Grid.Column="1" Grid.Row="2">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="0" HorizontalOptions="Center"/>
             </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="3">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            <StackLayout Grid.Column="0" Grid.Row="3" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
             <StackLayout Grid.Column="1" Grid.Row="3">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="0" HorizontalOptions="Center"/>
             </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="4">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            <StackLayout Grid.Column="0" Grid.Row="4" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
             <StackLayout Grid.Column="1" Grid.Row="4">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="0" HorizontalOptions="Center"/>
             </StackLayout>
-            <StackLayout Grid.Column="0" Grid.Row="5">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+            <StackLayout Grid.Column="0" Grid.Row="5" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
             <StackLayout Grid.Column="1" Grid.Row="5">
-                <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                <Label Text="Sendvic sunka-sir" TextColor="white"/>
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="0" HorizontalOptions="Center"/>
             </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="6" >
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
+            </StackLayout>
+            <StackLayout Grid.Column="1" Grid.Row="6">
+                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start" />
+                <Label Text="Sendvic sunka-sir" FontSize="20" FontAttributes="Bold" TextColor="Black" Margin="5" HorizontalOptions="Center"/>
+            </StackLayout>
+
 
         </Grid>
     </ScrollView>
