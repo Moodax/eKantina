@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\eKantina"
+    "\\eKantina",
+    "\\eKantina.Android",
+    "\\eKantina\\Views"
   ],
-  "SelectedNode": "\\eKantina.sln",
+  "SelectedNode": "\\eKantina\\Views\\AboutPage.xaml",
   "PreviewInSolutionExplorer": false
 }

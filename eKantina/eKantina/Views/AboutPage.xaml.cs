@@ -11,5 +11,10 @@ namespace eKantina.Views
         {
             InitializeComponent();
         }
+        public void Sendvici(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new SettingsPage();
+            alo.Text="JEBEO MAJKU";
+        }
     }
 }
