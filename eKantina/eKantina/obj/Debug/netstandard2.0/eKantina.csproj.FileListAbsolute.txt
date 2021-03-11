@@ -76,3 +76,5 @@ C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\ne
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.dll
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\ref\eKantina.dll
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.pdb
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Pice.xaml.g.cs
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Sendvici.xaml.g.cs

@@ -19,6 +19,7 @@
     <Compile Remove="Views\ItemDetailPage.xaml.cs" />
     <Compile Remove="Views\NewItemPage.xaml.cs" />
     <Compile Remove="Views\Page1.xaml.cs" />
+    <Compile Remove="Views\Page2.xaml.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,6 +27,7 @@
     <EmbeddedResource Remove="Views\ItemDetailPage.xaml" />
     <EmbeddedResource Remove="Views\NewItemPage.xaml" />
     <EmbeddedResource Remove="Views\Page1.xaml" />
+    <EmbeddedResource Remove="Views\Page2.xaml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,6 +36,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="Views\Pice.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Sendvici.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\SettingsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

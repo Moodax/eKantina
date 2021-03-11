@@ -13,7 +13,12 @@ namespace eKantina.Views
         }
         public void Sendvici(object sender, EventArgs e)
         {
-            Shell.Current.GoToAsync("SettingsPage");
+            Shell.Current.GoToAsync("Sendvici");
         }
+        public void Pice(object sender, EventArgs e)
+        {
+            Shell.Current.GoToAsync("Pice");
+        }
+
     }
 }

@@ -30,15 +30,15 @@
                     <TapGestureRecognizer Tapped="Sendvici"/>
                 </StackLayout.GestureRecognizers>
                 <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
-                <Label Text="Voda" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
+                <Label Text="Sendvici" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
 
             <StackLayout Grid.Row="1">
                 <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="Sendvici"/>
+                    <TapGestureRecognizer Tapped="Pice"/>
                 </StackLayout.GestureRecognizers>
                 <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
-                <Label Text="Fanta" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
+                <Label Text="Pice" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
 
             <StackLayout Grid.Row="2">

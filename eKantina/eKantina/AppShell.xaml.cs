@@ -11,7 +11,10 @@ namespace eKantina
         public AppShell()
         {
             InitializeComponent();
+            Routing.RegisterRoute(nameof(Sendvici),typeof(Sendvici));
+            Routing.RegisterRoute(nameof(Pice),typeof(Pice));
             Routing.RegisterRoute(nameof(SettingsPage),typeof(SettingsPage));
+           
         }
 
     }
