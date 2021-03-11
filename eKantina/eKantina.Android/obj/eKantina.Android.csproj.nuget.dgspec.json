@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj": {}
+    "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj": {
+    "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj",
+        "projectUniqueName": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj",
         "projectName": "eKantina.Android",
-        "projectPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj",
-        "packagesPath": "C:\\Users\\Ga-gama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.Android\\obj\\",
+        "projectPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj",
+        "packagesPath": "C:\\Users\\franm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ga-gama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
-                "projectPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj"
+              "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
+                "projectPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
+    "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+        "projectUniqueName": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
         "projectName": "eKantina",
-        "projectPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
-        "packagesPath": "C:\\Users\\Ga-gama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\obj\\",
+        "projectPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+        "packagesPath": "C:\\Users\\franm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ga-gama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

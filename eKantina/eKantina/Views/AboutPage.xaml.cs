@@ -13,8 +13,7 @@ namespace eKantina.Views
         }
         public void Sendvici(object sender, EventArgs e)
         {
-            App.Current.MainPage = new SettingsPage();
-            alo.Text="JEBEO MAJKU";
+            Shell.Current.GoToAsync("SettingsPage");
         }
     }
 }
