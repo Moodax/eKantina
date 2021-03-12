@@ -43,18 +43,18 @@
 
             <StackLayout Grid.Row="2">
                 <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="Sendvici"/>
+                    <TapGestureRecognizer Tapped="Slatkisi"/>
                 </StackLayout.GestureRecognizers>
                 <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
-                <Label Text="Kola" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
+                <Label Text="Slatkisi" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
 
             <StackLayout Grid.Row="3">
                 <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="Sendvici"/>
+                    <TapGestureRecognizer Tapped="Grickalice"/>
                 </StackLayout.GestureRecognizers>
                 <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
-                <Label Text="Sendiv koj voimi jestri kad hosam odoko smokel za vijr,e velikom odmora" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
+                <Label Text="Grickalice" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
         
         

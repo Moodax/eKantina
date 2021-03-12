@@ -13,8 +13,8 @@ namespace eKantina
             InitializeComponent();
             Routing.RegisterRoute(nameof(Sendvici),typeof(Sendvici));
             Routing.RegisterRoute(nameof(Pice),typeof(Pice));
-            Routing.RegisterRoute(nameof(SettingsPage),typeof(SettingsPage));
-           
+            Routing.RegisterRoute(nameof(Slatkisi),typeof(Slatkisi));
+            Routing.RegisterRoute(nameof(Grickalice), typeof(Grickalice));
         }
 
     }

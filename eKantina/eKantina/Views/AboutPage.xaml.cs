@@ -20,5 +20,15 @@ namespace eKantina.Views
             Shell.Current.GoToAsync("Pice");
         }
 
+        public void Slatkisi(object sender, EventArgs e)
+        {
+            Shell.Current.GoToAsync("Slatkisi");
+        }
+
+        public void Grickalice(object sender, EventArgs e)
+        {
+            Shell.Current.GoToAsync("Grickalice");
+        }
+
     }
 }
