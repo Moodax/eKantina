@@ -15,8 +15,9 @@ namespace eKantina
 
             DependencyService.Register<MockDataStore>();
             MainPage = new AppShell();
-        }
-
+            
+    }
+        public static int gumb { get; set; }
         protected override void OnStart()
         {
         }
@@ -28,5 +29,6 @@ namespace eKantina
         protected override void OnResume()
         {
         }
+
     }
 }

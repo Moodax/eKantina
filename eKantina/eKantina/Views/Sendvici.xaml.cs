@@ -10,11 +10,17 @@ using Xamarin.Forms.Xaml;
 namespace eKantina.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
+    
     public partial class Sendvici : ContentPage
     {
         public Sendvici()
         {
             InitializeComponent();
+        }
+        public void Artikl(object sender, EventArgs e)
+        {
+            App.gumb = 1;
+            Shell.Current.GoToAsync("Artikl");
         }
     }
 }

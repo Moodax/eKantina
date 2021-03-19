@@ -15,6 +15,7 @@ namespace eKantina
             Routing.RegisterRoute(nameof(Pice),typeof(Pice));
             Routing.RegisterRoute(nameof(Slatkisi),typeof(Slatkisi));
             Routing.RegisterRoute(nameof(Grickalice), typeof(Grickalice));
+            Routing.RegisterRoute(nameof(Artikl), typeof(Artikl));
         }
 
     }

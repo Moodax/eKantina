@@ -91,7 +91,9 @@
       <Name>eKantina</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\sendvicak.txt" />
+  </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\SendvicSunkaSir.png" />
   </ItemGroup>
