@@ -6,10 +6,8 @@ E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eK
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\App.xaml.g.cs
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.AssemblyInfoInputs.cache
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.AssemblyInfo.cs
 E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.csproj.CoreCompileInputs.cache
@@ -87,3 +85,8 @@ C:\Users\Ga-gama\Documents\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstanda
 C:\Users\Ga-gama\Documents\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.pdb
 C:\Users\Ga-gama\Documents\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.xml
 C:\Users\Ga-gama\Documents\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.csproj.CopyComplete
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Artikl.xaml.g.cs
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Grickalice.xaml.g.cs
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Pice.xaml.g.cs
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Sendvici.xaml.g.cs
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Slatkisi.xaml.g.cs

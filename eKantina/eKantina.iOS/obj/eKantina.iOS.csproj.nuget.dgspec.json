@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {}
+    "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {
+    "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
+        "projectUniqueName": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
         "projectName": "eKantina.iOS",
-        "projectPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
-        "packagesPath": "C:\\Users\\Ga-gama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\obj\\",
+        "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
+        "packagesPath": "C:\\Users\\Fauković\\.nuget\\packages\\",
+        "outputPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ga-gama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fauković\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
-                "projectPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj"
+              "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
+                "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
+    "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+        "projectUniqueName": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
         "projectName": "eKantina",
-        "projectPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
-        "packagesPath": "C:\\Users\\Ga-gama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ga-gama\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\obj\\",
+        "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+        "packagesPath": "C:\\Users\\Fauković\\.nuget\\packages\\",
+        "outputPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ga-gama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fauković\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
