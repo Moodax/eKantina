@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,6 +18,7 @@ namespace eKantina.Views
         public Artikl()
         {
             InitializeComponent();
+            double height = DeviceDisplay.MainDisplayInfo.Height;
             string ReadFromFile(string fileName)
             {
                 string text;
@@ -41,7 +43,9 @@ namespace eKantina.Views
                 string text = ReadFromFile(fileSource);
                 Image image = new Image
                 {
-                    Source = pictureSource
+                    Source = pictureSource,
+                    HeightRequest=height/7
+
                 };
                 Label name = new Label
                 {

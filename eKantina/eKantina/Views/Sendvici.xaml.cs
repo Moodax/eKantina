@@ -36,7 +36,8 @@ public partial class Sendvici : ContentPage
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
-                Margin = 0
+                Margin = 0,
+                TextColor = Color.Black
             };
             Article.Children.Add(image);
             Article.Children.Add(label);
@@ -48,16 +49,17 @@ public partial class Sendvici : ContentPage
             };
             Image image1 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                Source = "kulen_sir.png",
                 Aspect = Aspect.AspectFit
             };
             Label label1 = new Label
             {
-                Text = "Sendvič AJMOBREEEEEEEEEEEEE",
+                Text = "Sendvič kulen sir",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
-                Margin = 0
+                Margin = 0,
+                TextColor = Color.Black
             };
             Article1.Children.Add(image1);
             Article1.Children.Add(label1);
@@ -69,12 +71,13 @@ public partial class Sendvici : ContentPage
             };
             Image image2 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                Source = "pureci.png",
                 Aspect = Aspect.AspectFit
             };
             Label label2 = new Label
             {
-                Text = "Sendvič šunka sir",
+                TextColor = Color.Black,
+                Text = "Pureći sendvič",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -90,12 +93,13 @@ public partial class Sendvici : ContentPage
             };
             Image image3 = new Image
             {
-                Source = "SendvicSunkaSir.png",
-                Aspect = Aspect.AspectFit
+                Source = "dimcek.png",
+                Aspect = Aspect.AspectFill
             };
             Label label3 = new Label
             {
-                Text = "Sendvič šunka sir",
+                TextColor = Color.Black,
+                Text = "Sendvič dimcek",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -111,12 +115,13 @@ public partial class Sendvici : ContentPage
             };
             Image image4 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                Source = "bio.png",
                 Aspect = Aspect.AspectFit
             };
             Label label4 = new Label
             {
-                Text = "Sendvič šunka sir",
+                TextColor = Color.Black,
+                Text = "Bio sendvič",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -132,12 +137,13 @@ public partial class Sendvici : ContentPage
             };
             Image image5 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                Source = "hotdog.png",
                 Aspect = Aspect.AspectFit
             };
             Label label5 = new Label
             {
-                Text = "Sendvič šunka sir",
+                TextColor = Color.Black,
+                Text = "Hot Dog",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -153,12 +159,13 @@ public partial class Sendvici : ContentPage
             };
             Image image6 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                Source = "topli.png",
                 Aspect = Aspect.AspectFit
             };
             Label label6 = new Label
             {
-                Text = "Sendvič šunka sir",
+                TextColor = Color.Black,
+                Text = "Topli sendvič",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -174,12 +181,13 @@ public partial class Sendvici : ContentPage
             };
             Image image7 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                Source = "cheese.png",
                 Aspect = Aspect.AspectFit
             };
             Label label7 = new Label
             {
-                Text = "Sendvič šunka sir",
+                TextColor = Color.Black,
+                Text = "Cheeseburger",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -189,10 +197,17 @@ public partial class Sendvici : ContentPage
             Article7.Children.Add(label7);
             stack.Children.Add(Article7);
 
+
+
+
+
+
+
+
             var touch = new TapGestureRecognizer();
             touch.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
+                App.ime = label.Text;
                 App.gumb = "SendvicSunkaSir";
                 Shell.Current.GoToAsync("Artikl");
             };
@@ -201,8 +216,8 @@ public partial class Sendvici : ContentPage
             var touch1 = new TapGestureRecognizer();
             touch1.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič AJMOBREEEEEEEEEEEE";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label1.Text;
+                App.gumb = "kulen_sir";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article1.GestureRecognizers.Add(touch1);
@@ -210,8 +225,8 @@ public partial class Sendvici : ContentPage
             var touch2 = new TapGestureRecognizer();
             touch2.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label2.Text;
+                App.gumb = "pureci";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article2.GestureRecognizers.Add(touch2);
@@ -219,8 +234,8 @@ public partial class Sendvici : ContentPage
             var touch3 = new TapGestureRecognizer();
             touch3.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label3.Text;
+                App.gumb = "dimcek";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article3.GestureRecognizers.Add(touch3);
@@ -228,8 +243,8 @@ public partial class Sendvici : ContentPage
             var touch4 = new TapGestureRecognizer();
             touch4.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label4.Text;
+                App.gumb = "bio";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article4.GestureRecognizers.Add(touch4);
@@ -237,8 +252,8 @@ public partial class Sendvici : ContentPage
             var touch5 = new TapGestureRecognizer();
             touch5.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label5.Text;
+                App.gumb = "hotdog";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article5.GestureRecognizers.Add(touch5);
@@ -246,8 +261,8 @@ public partial class Sendvici : ContentPage
             var touch6 = new TapGestureRecognizer();
             touch6.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label6.Text;
+                App.gumb = "topli";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article6.GestureRecognizers.Add(touch6);
@@ -255,12 +270,18 @@ public partial class Sendvici : ContentPage
             var touch7 = new TapGestureRecognizer();
             touch7.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = label7.Text;
+                App.gumb = "cheese";
                 Shell.Current.GoToAsync("Artikl");
-                
+
             };
             Article7.GestureRecognizers.Add(touch7);
+
+
+
+
+
+
 
 
 
@@ -269,6 +290,6 @@ public partial class Sendvici : ContentPage
                 Content = stack
             };
             Content = scrollView;
-    }
+        }
     }
 }

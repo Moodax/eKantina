@@ -37,7 +37,7 @@
                 <StackLayout.GestureRecognizers>
                     <TapGestureRecognizer Tapped="Pice"/>
                 </StackLayout.GestureRecognizers>
-                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
+                <Image Source="kola.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
                 <Label Text="Pice" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
 
@@ -45,7 +45,7 @@
                 <StackLayout.GestureRecognizers>
                     <TapGestureRecognizer Tapped="Slatkisi"/>
                 </StackLayout.GestureRecognizers>
-                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
+                <Image Source="milka.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
                 <Label Text="Slatkisi" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
 
@@ -53,7 +53,7 @@
                 <StackLayout.GestureRecognizers>
                     <TapGestureRecognizer Tapped="Grickalice"/>
                 </StackLayout.GestureRecognizers>
-                <Image Source="SendvicSunkaSir.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
+                <Image Source="smokici.png" VerticalOptions="Start" Aspect="AspectFit" HorizontalOptions="Start"  />
                 <Label Text="Grickalice" FontSize="20" FontAttributes="Bold" TextColor="Black"    Margin="0" HorizontalOptions="Center" />
             </StackLayout>
         

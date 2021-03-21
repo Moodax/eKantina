@@ -92,7 +92,8 @@ namespace eKantina.Views
                             TextColor = Color.Black,
                             FontSize = 15,
                             HorizontalOptions = LayoutOptions.Center,
-                            VerticalOptions = LayoutOptions.Start
+                            VerticalOptions = LayoutOptions.Center,
+                            FontAttributes=FontAttributes.Bold
                         };
                         images[i] = new Image
                         {
@@ -134,6 +135,7 @@ namespace eKantina.Views
                         {
                             Margin = new Thickness(0, height/ 342.857142857, 0, 0),
                             VerticalOptions = LayoutOptions.StartAndExpand,
+                            HorizontalOptions=LayoutOptions.Center,
                             HeightRequest = height / 30
                         });
                     }
@@ -147,7 +149,7 @@ namespace eKantina.Views
                     {
                         Margin = new Thickness(0, height/ 342.857142857, 0, 0),
                         VerticalOptions = LayoutOptions.StartAndExpand,
-                        HeightRequest = height / 30
+                        //HeightRequest = height / 30
                     });
                 }
             }
