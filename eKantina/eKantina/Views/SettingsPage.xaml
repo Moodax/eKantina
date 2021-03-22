@@ -3,10 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="eKantina.Views.SettingsPage">
     <ContentPage.Content>
-        <StackLayout BackgroundColor="black">
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout>
+            <Label Text="Ovo je stranica O aplikaciji. Ovaj projekt je bio obavezni zadatak iz Naprednog i objektnog programiranja s profesorom Zlatkom Damjanićem. Naš je bio zadatak napraviti aplikaciju koja pojednostavljuje narudžbu hrane u školskoj kantini. Mi smo to uradili odlično i bez problema. Aplikacija koristi Xamarin što je zapravo naprednije od onoga što smo trebali. Glavna funkcijonalnost je popis hrane te narudžba te hrane. Sučelje je jednostavno i ima veoma simpatičan dizajn. Ima jako lijepe slike. Aplikacija je ispala čisti uspjeh. Na ovom projektu su sudjelovali Matija Fauković, Martin Šek, Fran Matijević i Karlo Putar. Definitivno su to odlično izveli.
+Naravno moguće je stupiti u kontakt s tim mladićima i to putem maila:
+martin.sek808080@gmail.com
+matijafaukovic@gmail.com
+franmatijevic6@gmail.com
+karlo.putar1@gmail.com
+To su mailovi ovih odličnih mladića. Oni su spremni odgovoriti na sva pitanja njima postavljena. Želimo se sahvaliti našem profesoru Zlatku što nam je omogućio ovaj projekt.
+Ime naše firme: NoplezGang d.o.o"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontSize="20"
+                   TextColor="Black"
+                   HorizontalTextAlignment="Center"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

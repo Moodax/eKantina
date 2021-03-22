@@ -631,23 +631,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Martin\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Fauković\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+      "projectUniqueName": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
       "projectName": "eKantina",
-      "projectPath": "C:\\Users\\Martin\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
-      "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin\\Documents\\GitHub\\eKantina\\eKantina\\eKantina\\obj\\",
+      "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+      "packagesPath": "C:\\Users\\Fauković\\.nuget\\packages\\",
+      "outputPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fauković\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -15,6 +15,7 @@ namespace eKantina.Views
         public Slatkisi()
         {
             InitializeComponent();
+            double height = DeviceDisplay.MainDisplayInfo.Height;
             StackLayout stack = new StackLayout
             {
             };
@@ -24,12 +25,13 @@ namespace eKantina.Views
             };
             Image image = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "doublejoy.png",
                 Aspect = Aspect.AspectFit
             };
             Label label = new Label
             {
-                Text = "Sendvič šunka sir",
+                Text = "Double Joy",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -46,12 +48,13 @@ namespace eKantina.Views
             };
             Image image1 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "leo.png",
                 Aspect = Aspect.AspectFit
             };
             Label label1 = new Label
             {
-                Text = "Sendvič AJMOBREEEEEEEEEEEEE",
+                Text = "Leo",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -68,13 +71,14 @@ namespace eKantina.Views
             };
             Image image2 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "milka.png",
                 Aspect = Aspect.AspectFit
             };
             Label label2 = new Label
             {
                 TextColor = Color.Black,
-                Text = "Sendvič šunka sir",
+                Text = "Milka",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -90,13 +94,14 @@ namespace eKantina.Views
             };
             Image image3 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "jafa.png",
                 Aspect = Aspect.AspectFit
             };
             Label label3 = new Label
             {
                 TextColor = Color.Black,
-                Text = "Sendvič šunka sir",
+                Text = "Jafa kekse",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -112,13 +117,14 @@ namespace eKantina.Views
             };
             Image image4 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "zvake.png",
                 Aspect = Aspect.AspectFit
             };
             Label label4 = new Label
             {
                 TextColor = Color.Black,
-                Text = "Sendvič šunka sir",
+                Text = "Extra kaugume",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -134,13 +140,14 @@ namespace eKantina.Views
             };
             Image image5 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "snickers.png",
                 Aspect = Aspect.AspectFit
             };
             Label label5 = new Label
             {
                 TextColor = Color.Black,
-                Text = "Sendvič šunka sir",
+                Text = "Snickers",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -156,13 +163,14 @@ namespace eKantina.Views
             };
             Image image6 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "twix.png",
                 Aspect = Aspect.AspectFit
             };
             Label label6 = new Label
             {
                 TextColor = Color.Black,
-                Text = "Sendvič šunka sir",
+                Text = "Twix",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -178,13 +186,14 @@ namespace eKantina.Views
             };
             Image image7 = new Image
             {
-                Source = "SendvicSunkaSir.png",
+                HeightRequest = height / 7.5,
+                Source = "mikic.png",
                 Aspect = Aspect.AspectFit
             };
             Label label7 = new Label
             {
                 TextColor = Color.Black,
-                Text = "Sendvič šunka sir",
+                Text = "Lizalica",
                 FontSize = 20,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
@@ -197,8 +206,8 @@ namespace eKantina.Views
             var touch = new TapGestureRecognizer();
             touch.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Double Joy";
+                App.gumb = "doublejoy";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article.GestureRecognizers.Add(touch);
@@ -206,8 +215,8 @@ namespace eKantina.Views
             var touch1 = new TapGestureRecognizer();
             touch1.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič AJMOBREEEEEEEEEEEE";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Leo";
+                App.gumb = "leo";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article1.GestureRecognizers.Add(touch1);
@@ -215,8 +224,8 @@ namespace eKantina.Views
             var touch2 = new TapGestureRecognizer();
             touch2.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Milka";
+                App.gumb = "milka";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article2.GestureRecognizers.Add(touch2);
@@ -224,8 +233,8 @@ namespace eKantina.Views
             var touch3 = new TapGestureRecognizer();
             touch3.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Jafa kekse";
+                App.gumb = "jafa";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article3.GestureRecognizers.Add(touch3);
@@ -233,8 +242,8 @@ namespace eKantina.Views
             var touch4 = new TapGestureRecognizer();
             touch4.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Extra kaugume";
+                App.gumb = "zvake";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article4.GestureRecognizers.Add(touch4);
@@ -242,8 +251,8 @@ namespace eKantina.Views
             var touch5 = new TapGestureRecognizer();
             touch5.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Snickers";
+                App.gumb = "snickers";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article5.GestureRecognizers.Add(touch5);
@@ -251,8 +260,8 @@ namespace eKantina.Views
             var touch6 = new TapGestureRecognizer();
             touch6.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Twix";
+                App.gumb = "twix";
                 Shell.Current.GoToAsync("Artikl");
             };
             Article6.GestureRecognizers.Add(touch6);
@@ -260,8 +269,8 @@ namespace eKantina.Views
             var touch7 = new TapGestureRecognizer();
             touch7.Tapped += (s, e) =>
             {
-                App.ime = "Sendvič šunka sir";
-                App.gumb = "SendvicSunkaSir";
+                App.ime = "Lizalica";
+                App.gumb = "mikic";
                 Shell.Current.GoToAsync("Artikl");
 
             };
