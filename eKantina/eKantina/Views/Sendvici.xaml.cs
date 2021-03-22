@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -18,6 +18,7 @@ public partial class Sendvici : ContentPage
     public Sendvici()
         {
             InitializeComponent();
+            double height = DeviceDisplay.MainDisplayInfo.Height;
             StackLayout stack = new StackLayout
             {
             };
@@ -27,6 +28,7 @@ public partial class Sendvici : ContentPage
             };
             Image image = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "SendvicSunkaSir.png",
                 Aspect = Aspect.AspectFit
             };
@@ -49,6 +51,7 @@ public partial class Sendvici : ContentPage
             };
             Image image1 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "kulen_sir.png",
                 Aspect = Aspect.AspectFit
             };
@@ -71,6 +74,7 @@ public partial class Sendvici : ContentPage
             };
             Image image2 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "pureci.png",
                 Aspect = Aspect.AspectFit
             };
@@ -93,6 +97,7 @@ public partial class Sendvici : ContentPage
             };
             Image image3 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "dimcek.png",
                 Aspect = Aspect.AspectFill
             };
@@ -115,6 +120,7 @@ public partial class Sendvici : ContentPage
             };
             Image image4 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "bio.png",
                 Aspect = Aspect.AspectFit
             };
@@ -137,6 +143,7 @@ public partial class Sendvici : ContentPage
             };
             Image image5 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "hotdog.png",
                 Aspect = Aspect.AspectFit
             };
@@ -159,6 +166,7 @@ public partial class Sendvici : ContentPage
             };
             Image image6 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "topli.png",
                 Aspect = Aspect.AspectFit
             };
@@ -181,6 +189,7 @@ public partial class Sendvici : ContentPage
             };
             Image image7 = new Image
             {
+                HeightRequest = height / 7.5,
                 Source = "cheese.png",
                 Aspect = Aspect.AspectFit
             };

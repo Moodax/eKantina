@@ -4934,9 +4934,47 @@ public final class R {
     public static final int toolbar=0x7f0b0046;
   }
   public static final class mipmap {
-    public static final int icon=0x7f0c0000;
-    public static final int icon_round=0x7f0c0001;
-    public static final int launcher_foreground=0x7f0c0002;
+    public static final int bio=0x7f0c0000;
+    public static final int cart=0x7f0c0001;
+    public static final int cedevita=0x7f0c0002;
+    public static final int cheese=0x7f0c0003;
+    public static final int cips=0x7f0c0004;
+    public static final int dimcek=0x7f0c0005;
+    public static final int fanta=0x7f0c0006;
+    public static final int hotdog=0x7f0c0007;
+    public static final int icetea=0x7f0c0008;
+    public static final int icon=0x7f0c0009;
+    public static final int icon_about=0x7f0c000a;
+    public static final int icon_feed=0x7f0c000b;
+    public static final int icon_round=0x7f0c000c;
+    public static final int jafa=0x7f0c000d;
+    public static final int kikiriki=0x7f0c000e;
+    public static final int kokice=0x7f0c000f;
+    public static final int kola=0x7f0c0010;
+    public static final int kulen_sir=0x7f0c0011;
+    public static final int launcher_foreground=0x7f0c0012;
+    public static final int leo=0x7f0c0013;
+    public static final int menu=0x7f0c0014;
+    public static final int mikic=0x7f0c0015;
+    public static final int milka=0x7f0c0016;
+    public static final int nara=0x7f0c0017;
+    public static final int partymix=0x7f0c0018;
+    public static final int pereci=0x7f0c0019;
+    public static final int pureci=0x7f0c001a;
+    public static final int sendvicsunkasir=0x7f0c001b;
+    public static final int settings=0x7f0c001c;
+    public static final int smokici=0x7f0c001d;
+    public static final int snickers=0x7f0c001e;
+    public static final int sprajt=0x7f0c001f;
+    public static final int stapici=0x7f0c0020;
+    public static final int tetrapak=0x7f0c0021;
+    public static final int topli=0x7f0c0022;
+    public static final int tortilje=0x7f0c0023;
+    public static final int twix=0x7f0c0024;
+    public static final int voda=0x7f0c0025;
+    public static final int vuna=0x7f0c0026;
+    public static final int xamarin_logo=0x7f0c0027;
+    public static final int zvake=0x7f0c0028;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0d0000;

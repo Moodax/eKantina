@@ -9455,13 +9455,127 @@ namespace eKantina.Droid
 		{
 			
 			// aapt resource value: 0x7F0C0000
-			public const int icon = 2131492864;
+			public const int bio = 2131492864;
 			
 			// aapt resource value: 0x7F0C0001
-			public const int icon_round = 2131492865;
+			public const int cart = 2131492865;
 			
 			// aapt resource value: 0x7F0C0002
-			public const int launcher_foreground = 2131492866;
+			public const int cedevita = 2131492866;
+			
+			// aapt resource value: 0x7F0C0003
+			public const int cheese = 2131492867;
+			
+			// aapt resource value: 0x7F0C0004
+			public const int cips = 2131492868;
+			
+			// aapt resource value: 0x7F0C0005
+			public const int dimcek = 2131492869;
+			
+			// aapt resource value: 0x7F0C0006
+			public const int fanta = 2131492870;
+			
+			// aapt resource value: 0x7F0C0007
+			public const int hotdog = 2131492871;
+			
+			// aapt resource value: 0x7F0C0008
+			public const int icetea = 2131492872;
+			
+			// aapt resource value: 0x7F0C0009
+			public const int icon = 2131492873;
+			
+			// aapt resource value: 0x7F0C000A
+			public const int icon_about = 2131492874;
+			
+			// aapt resource value: 0x7F0C000B
+			public const int icon_feed = 2131492875;
+			
+			// aapt resource value: 0x7F0C000C
+			public const int icon_round = 2131492876;
+			
+			// aapt resource value: 0x7F0C000D
+			public const int jafa = 2131492877;
+			
+			// aapt resource value: 0x7F0C000E
+			public const int kikiriki = 2131492878;
+			
+			// aapt resource value: 0x7F0C000F
+			public const int kokice = 2131492879;
+			
+			// aapt resource value: 0x7F0C0010
+			public const int kola = 2131492880;
+			
+			// aapt resource value: 0x7F0C0011
+			public const int kulen_sir = 2131492881;
+			
+			// aapt resource value: 0x7F0C0012
+			public const int launcher_foreground = 2131492882;
+			
+			// aapt resource value: 0x7F0C0013
+			public const int leo = 2131492883;
+			
+			// aapt resource value: 0x7F0C0014
+			public const int menu = 2131492884;
+			
+			// aapt resource value: 0x7F0C0015
+			public const int mikic = 2131492885;
+			
+			// aapt resource value: 0x7F0C0016
+			public const int milka = 2131492886;
+			
+			// aapt resource value: 0x7F0C0017
+			public const int nara = 2131492887;
+			
+			// aapt resource value: 0x7F0C0018
+			public const int partymix = 2131492888;
+			
+			// aapt resource value: 0x7F0C0019
+			public const int pereci = 2131492889;
+			
+			// aapt resource value: 0x7F0C001A
+			public const int pureci = 2131492890;
+			
+			// aapt resource value: 0x7F0C001B
+			public const int SendvicSunkaSir = 2131492891;
+			
+			// aapt resource value: 0x7F0C001C
+			public const int settings = 2131492892;
+			
+			// aapt resource value: 0x7F0C001D
+			public const int smokici = 2131492893;
+			
+			// aapt resource value: 0x7F0C001E
+			public const int snickers = 2131492894;
+			
+			// aapt resource value: 0x7F0C001F
+			public const int sprajt = 2131492895;
+			
+			// aapt resource value: 0x7F0C0020
+			public const int stapici = 2131492896;
+			
+			// aapt resource value: 0x7F0C0021
+			public const int tetrapak = 2131492897;
+			
+			// aapt resource value: 0x7F0C0022
+			public const int topli = 2131492898;
+			
+			// aapt resource value: 0x7F0C0023
+			public const int tortilje = 2131492899;
+			
+			// aapt resource value: 0x7F0C0024
+			public const int twix = 2131492900;
+			
+			// aapt resource value: 0x7F0C0025
+			public const int voda = 2131492901;
+			
+			// aapt resource value: 0x7F0C0026
+			public const int vuna = 2131492902;
+			
+			// aapt resource value: 0x7F0C0027
+			public const int xamarin_logo = 2131492903;
+			
+			// aapt resource value: 0x7F0C0028
+			public const int zvake = 2131492904;
 			
 			static Mipmap()
 			{
