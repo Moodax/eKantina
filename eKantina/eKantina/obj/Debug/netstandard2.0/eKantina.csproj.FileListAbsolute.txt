@@ -173,3 +173,4 @@ C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\bin\Debug\ne
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.xml
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Artikl.xaml.g.cs
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.csproj.CopyComplete
+E:\0MatijaSkola\2020-2021\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\checkout.xaml.g.cs

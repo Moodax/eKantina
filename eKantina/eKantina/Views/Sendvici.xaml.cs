@@ -216,6 +216,7 @@ public partial class Sendvici : ContentPage
             var touch = new TapGestureRecognizer();
             touch.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label.Text;
                 App.gumb = "SendvicSunkaSir";
                 Shell.Current.GoToAsync("Artikl");
@@ -225,6 +226,7 @@ public partial class Sendvici : ContentPage
             var touch1 = new TapGestureRecognizer();
             touch1.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label1.Text;
                 App.gumb = "kulen_sir";
                 Shell.Current.GoToAsync("Artikl");
@@ -234,6 +236,7 @@ public partial class Sendvici : ContentPage
             var touch2 = new TapGestureRecognizer();
             touch2.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label2.Text;
                 App.gumb = "pureci";
                 Shell.Current.GoToAsync("Artikl");
@@ -243,6 +246,7 @@ public partial class Sendvici : ContentPage
             var touch3 = new TapGestureRecognizer();
             touch3.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label3.Text;
                 App.gumb = "dimcek";
                 Shell.Current.GoToAsync("Artikl");
@@ -252,6 +256,7 @@ public partial class Sendvici : ContentPage
             var touch4 = new TapGestureRecognizer();
             touch4.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label4.Text;
                 App.gumb = "bio";
                 Shell.Current.GoToAsync("Artikl");
@@ -261,6 +266,7 @@ public partial class Sendvici : ContentPage
             var touch5 = new TapGestureRecognizer();
             touch5.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label5.Text;
                 App.gumb = "hotdog";
                 Shell.Current.GoToAsync("Artikl");
@@ -270,6 +276,7 @@ public partial class Sendvici : ContentPage
             var touch6 = new TapGestureRecognizer();
             touch6.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label6.Text;
                 App.gumb = "topli";
                 Shell.Current.GoToAsync("Artikl");
@@ -279,6 +286,7 @@ public partial class Sendvici : ContentPage
             var touch7 = new TapGestureRecognizer();
             touch7.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = label7.Text;
                 App.gumb = "cheese";
                 Shell.Current.GoToAsync("Artikl");

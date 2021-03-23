@@ -208,6 +208,7 @@ namespace eKantina.Views
             var touch = new TapGestureRecognizer();
             touch.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Štapići";
                 App.gumb = "stapici";
                 Shell.Current.GoToAsync("Artikl");
@@ -217,6 +218,7 @@ namespace eKantina.Views
             var touch1 = new TapGestureRecognizer();
             touch1.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Čips";
                 App.gumb = "cips";
                 Shell.Current.GoToAsync("Artikl");
@@ -226,6 +228,7 @@ namespace eKantina.Views
             var touch2 = new TapGestureRecognizer();
             touch2.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Kokice";
                 App.gumb = "kokice";
                 Shell.Current.GoToAsync("Artikl");
@@ -235,6 +238,7 @@ namespace eKantina.Views
             var touch3 = new TapGestureRecognizer();
             touch3.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Party mix";
                 App.gumb = "partymix";
                 Shell.Current.GoToAsync("Artikl");
@@ -244,6 +248,7 @@ namespace eKantina.Views
             var touch4 = new TapGestureRecognizer();
             touch4.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Pereci";
                 App.gumb = "pereci";
                 Shell.Current.GoToAsync("Artikl");
@@ -253,6 +258,7 @@ namespace eKantina.Views
             var touch5 = new TapGestureRecognizer();
             touch5.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Smoki";
                 App.gumb = "smokici";
                 Shell.Current.GoToAsync("Artikl");
@@ -262,6 +268,7 @@ namespace eKantina.Views
             var touch6 = new TapGestureRecognizer();
             touch6.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Čips tortilja";
                 App.gumb = "tortilje";
                 Shell.Current.GoToAsync("Artikl");
@@ -271,6 +278,7 @@ namespace eKantina.Views
             var touch7 = new TapGestureRecognizer();
             touch7.Tapped += (s, e) =>
             {
+                App.price = 12;
                 App.ime = "Kikiriki";
                 App.gumb = "kikiriki";
                 Shell.Current.GoToAsync("Artikl");

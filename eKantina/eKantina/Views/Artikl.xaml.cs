@@ -56,6 +56,14 @@ namespace eKantina.Views
                     FontSize=25
 
                 };
+                Label price = new Label
+                {
+                    Text =App.price.ToString()+" kn",
+                    FontSize=20,
+                    FontAttributes = FontAttributes.Bold,
+                    HorizontalTextAlignment = TextAlignment.Center,
+                    TextColor = Color.Black
+                };
                 Label label = new Label
                 {
                     Text = text
@@ -69,6 +77,7 @@ namespace eKantina.Views
                
                 artikl.Children.Add(image);
                 artikl.Children.Add(name);
+                artikl.Children.Add(price);
                 artikl.Children.Add(label);
                 button.Children.Add(AddToCart);
                 StackLayout PageContent = new StackLayout
@@ -87,6 +96,7 @@ namespace eKantina.Views
                     {
                         if (App.articleName[i] == "0" && wrote==false)
                         {
+                            App.articlePrice[i] = App.price;
                             App.articleName[i] = App.ime;
                             App.articlePicture[i] = pictureSource;
                             wrote = true;

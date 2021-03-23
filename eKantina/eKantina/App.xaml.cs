@@ -22,6 +22,7 @@ namespace eKantina
         
         public static string gumb { get; set; }
         public static string ime { get; set; }
+        public static double price { get; set; }
         protected override void OnStart()
         {
             Application.Current.UserAppTheme = OSAppTheme.Light;
@@ -29,6 +30,7 @@ namespace eKantina
             {
                 articleName[i] = "0";
                 articlePicture[i] = "0";
+                articlePrice[i] = 0;
             }
         }
 
@@ -39,6 +41,7 @@ namespace eKantina
         protected override void OnResume()
         {
         }
+        public static double[] articlePrice = new double[10];
         public static string[] articleName = new string[10];
 
         public static string[] articlePicture = new string[10];

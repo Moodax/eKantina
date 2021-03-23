@@ -88,7 +88,7 @@ namespace eKantina.Views
                     {
                         label[i] = new Label
                         {
-                            Text = App.articleName[i],
+                            Text = App.articleName[i]+"                         "+App.articlePrice[i]+" kn",
                             TextColor = Color.Black,
                             FontSize = 15,
                             HorizontalOptions = LayoutOptions.Center,
@@ -164,9 +164,16 @@ namespace eKantina.Views
                             button
                         }
             }, 0, j); */
+
+            button.Clicked += (sender, args) =>
+            {
+                if (App.articleName[0] != "0")
+                    Shell.Current.GoToAsync("checkout");
+            };
             gumb.Children.Add(button);
             pageContent.Children.Add(gumb);
             Content = pageContent;
+            
         }
     }
 }
