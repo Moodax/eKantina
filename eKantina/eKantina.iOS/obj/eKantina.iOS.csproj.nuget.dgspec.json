@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {}
+    "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {}
   },
   "projects": {
-    "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {
+    "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
         "projectName": "eKantina.iOS",
-        "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
-        "packagesPath": "C:\\Users\\Fauković\\.nuget\\packages\\",
-        "outputPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.iOS\\obj\\",
+        "projectPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\eKantina.iOS.csproj",
+        "packagesPath": "C:\\Users\\franm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fauković\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
-                "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj"
+              "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
+                "projectPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
+    "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+        "projectUniqueName": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
         "projectName": "eKantina",
-        "projectPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
-        "packagesPath": "C:\\Users\\Fauković\\.nuget\\packages\\",
-        "outputPath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina\\obj\\",
+        "projectPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\eKantina.csproj",
+        "packagesPath": "C:\\Users\\franm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fauković\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e7+eC0mkIobto7WJA5+4HxFgqT4NOg/vqDdbAAU+ex4buZIWusJuumwwvA1akAei7Dhe2+dQwHgc+bPIyb2Wsg==",
+  "dgSpecHash": "zCO0zOKQwHWnOnShng6wI7gKs8zPh02Xbk88h9TSC47tLGiIMb7OEeE0RJBRGI7YZdCBMXSuFijOmwPOUKYjgA==",
   "success": true,
-  "projectFilePath": "E:\\0MatijaSkola\\2020-2021\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj",
+  "projectFilePath": "C:\\Users\\franm\\OneDrive\\Dokumenti\\GitHub\\eKantina\\eKantina\\eKantina.Android\\eKantina.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -62,7 +62,6 @@ C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\ne
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.AssemblyInfoInputs.cache
 C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.AssemblyInfo.cs
@@ -169,3 +168,8 @@ C:\Users\Martin\Documents\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandar
 C:\Users\Martin\Documents\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.xml
 C:\Users\Martin\Documents\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Martin\Documents\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.csproj.CopyComplete
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\Views\Artikl.xaml.g.cs
+C:\Users\franm\OneDrive\Dokumenti\GitHub\eKantina\eKantina\eKantina\obj\Debug\netstandard2.0\eKantina.csproj.CopyComplete
