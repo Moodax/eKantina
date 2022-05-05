@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">eKantina</string>
+    <string name="title_home">Ponuda</string>
+    <string name="title_dashboard">Kolica</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
